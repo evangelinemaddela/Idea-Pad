@@ -1,8 +1,8 @@
 # Idea Pad
 
-Ever had a sudden idea and wished you could jot it down instantly? **Idea Pad** does exactly that—but smarter. Built in **Java**, it lets you **add, view, search, and delete ideas**, all safely saved in a file so nothing is ever lost.
+Ever had a sudden idea and wished you could jot it down instantly? **Idea Pad** does exactly that but smarter. Built in **Java**, it lets you **add, view, search, and delete ideas**, all safely saved in a file so nothing is ever lost.
 
-Think of it as your **digital notebook**, ready whenever inspiration strikes—simple, fast, and reliable.
+Think of it as your **digital notebook**, ready whenever inspiration strikes! Simple, fast, and reliable.
 
 ---
 
