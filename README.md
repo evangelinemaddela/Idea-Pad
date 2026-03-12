@@ -22,14 +22,6 @@ Think of it as your **digital notebook**, ready whenever inspiration strikes! Si
 
 ---
 
-## Future Upgrades
-
-- Add **tags, timestamps, or categories**  
-- Build a **GUI version** for better user experience  
-- Enable **sorting and filtering** to quickly organize notes  
-
----
-
 ## Author
 
 **Evangeline Maddela**
