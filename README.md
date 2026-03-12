@@ -32,5 +32,5 @@ Think of it as your **digital notebook**, ready whenever inspiration strikes! Si
 
 ## Author
 
-**Evangeline M.** – Exploring the intersection of **creative ideas and code**  
+**Evangeline Maddela**
 GitHub: [github.com/evangelinemaddela](https://github.com/evangelinemaddela)
